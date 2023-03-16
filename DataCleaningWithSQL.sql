@@ -1,4 +1,4 @@
---The dataset beng used is for Nashville housing. We'll be using various methods to clean the data.
+--The dataset being used is for Nashville housing. We'll be using various methods to clean the data.
 USE SQLPortfolioProject2
 SELECT * FROM nash_housing
 
