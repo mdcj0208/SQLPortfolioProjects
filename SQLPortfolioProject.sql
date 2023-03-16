@@ -1,3 +1,4 @@
+--The dataset that I'm working with contains world covid data
 --Looking at Total Cases vs Total Deaths
 
 SELECT
